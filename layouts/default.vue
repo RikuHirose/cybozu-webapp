@@ -1,8 +1,10 @@
 <template>
-  <div>
-    <section class="container">
-      <nuxt />
-    </section>
+  <div class="container">
+    <div class="row" style="justify-content: center;">
+      <div class="col-md-8">
+        <nuxt />
+      </div>
+    </div>
   </div>
 </template>
 
