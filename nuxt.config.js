@@ -27,6 +27,7 @@ export default {
   ** Global CSS
   */
   css: [
+    "firebaseui/dist/firebaseui.css"
   ],
 
   /*
